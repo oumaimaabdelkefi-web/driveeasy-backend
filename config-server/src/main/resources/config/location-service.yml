@@ -1,0 +1,12 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: location-service
+
+driveeasy:
+  location:
+    remise-fidele: 0.05
+    remise-vip: 0.10
+    penalite-retard-multiplier: 1.5

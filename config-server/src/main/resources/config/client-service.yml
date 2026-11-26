@@ -1,0 +1,12 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: client-service
+
+driveeasy:
+  client:
+    minimum-age: 21
+    threshold-fidele: 5
+    threshold-vip: 15

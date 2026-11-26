@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: vehicule-service
+
+driveeasy:
+  vehicule:
+    max-allowed-rental-days: 60
+    currency: EUR
